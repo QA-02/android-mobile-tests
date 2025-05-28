@@ -166,6 +166,8 @@ Anda juga bisa menulis skrip tes secara manual menggunakan Groovy (bahasa yang d
 3.  Pilih `Mobile` dan kemudian pilih perangkat/emulator yang terdaftar (misalnya, `Android` atau `iOS`). Pastikan Appium server sudah berjalan (Katalon Studio biasanya akan menanyakannya atau Anda bisa menjalankannya secara manual).
 4.  **Lihat Eksekusi**: Katalon akan menjalankan langkah-langkah tes pada perangkat/emulator yang dipilih. Anda bisa melihat progresnya di *Log Viewer*.
 
+![MobileRuntime](Assets/MobileRuntime.png)
+
 ---
 
 ## 6. Melihat Hasil Tes dan Laporan 📊
