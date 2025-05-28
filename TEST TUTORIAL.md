@@ -64,6 +64,8 @@ Ada dua cara utama untuk membuat *test case* di Katalon Studio: *Record Mobile* 
 
 ### 3.1. Menggunakan Record Mobile ⏺️
 
+![Record Mobile](Assets/TestRecorder.png)
+
 Fitur ini memungkinkan Anda merekam interaksi dengan aplikasi dan secara otomatis menghasilkan langkah-langkah tes.
 
 1.  **Buka Perspektif Mobile**: Jika belum, klik ikon *Mobile* di *toolbar* atau navigasi ke `Window > Perspective > Mobile`.
