@@ -35,6 +35,9 @@ Sebelum memulai, pastikan Anda telah mempersiapkan hal-hal berikut:
     * Masukkan nama proyek dan pilih tipe proyek `Mobile`.
     * Pilih *repository* jika menggunakan sistem kontrol versi (opsional).
     * Klik `OK`.
+  
+![New Mobile Testing](Asset/NewMobileTest.png)
+      
 3.  **Konfigurasi Appium**:
     * Di Katalon Studio, navigasi ke `Project > Settings > Desired Capabilities > Mobile`.
     * Pilih sistem operasi target (`Android` atau `iOS`).
